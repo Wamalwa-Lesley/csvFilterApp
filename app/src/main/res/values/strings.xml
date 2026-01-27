@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">csvFilterApp</string>
+
+    <string-array name="gender_filter_options">
+        <item>All</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+
 </resources>
